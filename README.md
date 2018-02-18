@@ -2,17 +2,17 @@
 
 This single page React application pulls data from a public [Star Wars API](https://swapi.co/) and then displays that data in a custom UI. The home page displays a custom Star Wars crawl within an iframe:
 
-![homepage screenshot](https://github.com/Seeker0/Backpack/blob/master/public/item_display.png)
+![homepage screenshot](https://github.com/Austin1780/Star-Wars-API/blob/master/public/images/1.png)
 
 Selecting one of the menu buttons will direct you to a subject page, such as films or people:
 
-![films screenshot](https://github.com/Seeker0/Backpack/blob/master/public/item_display.png)
+![films screenshot](https://github.com/Austin1780/Star-Wars-API/blob/master/public/images/2.png)
 
-![people1 screenshot](https://github.com/Seeker0/Backpack/blob/master/public/item_display.png)
+![people1 screenshot](https://github.com/Austin1780/Star-Wars-API/blob/master/public/images/3.png)
 
 Selecting the pagination buttons at the bottom will continue to the next page of data from the API:
 
-![people2 screenshot](https://github.com/Seeker0/Backpack/blob/master/public/item_display.png)
+![people2 screenshot](https://github.com/Austin1780/Star-Wars-API/blob/master/public/images/4.png)
 
 ## Installation:
 
