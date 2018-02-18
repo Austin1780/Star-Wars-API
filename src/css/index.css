@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url("../images/stars.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.welcome-panel {
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  opacity: 0.7;
+}
+
+.title-panel {
+  background-color: white;
+  opacity: 0.5;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  width: 500px;
+  text-align: center;
+  font-family: "JediFont";
+  font-size: 80px;
+}
+
+.data-table {
+  background: white;
+  opacity: 0.8;
+  width: 30%;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#row {
+  border: black solid 2px;
+}
+
+.next-text {
+  opacity: 0.8;
+  background: white;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: "JediFont";
+  font-style: normal;
+  font-weight: 300;
+  src: local("JediFont"), url("../font/jediFont.ttf") format("truetype"); /* Safari, Android, iOS */
+}
