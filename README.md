@@ -21,9 +21,8 @@ To run the program on your local machine, clone the repo, run npm install on the
 ## Built With:
 
 * [React](https://reactjs.org/) - Frontend framework
+* [Redux](https://redux.js.org/) - Predictable State Container for React
 * [npm](https://www.npmjs.com/) - Dependency Management
-* [Node.js](https://nodejs.org/en/) - JavaScript runtime
-* [Express](https://expressjs.com/) - Server
 * [Bootstrap](https://getbootstrap.com/) & CSS - UI
 
 ## Author:
